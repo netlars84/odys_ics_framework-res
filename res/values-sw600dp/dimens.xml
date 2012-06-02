@@ -20,6 +20,6 @@
     <dimen name="default_app_widget_padding_right">12.0dip</dimen>
     <dimen name="default_app_widget_padding_bottom">20.0dip</dimen>
     <dimen name="action_button_min_width">64.0dip</dimen>
-    <dimen name="keyguard_pattern_unlock_clock_font_size">112.0sp</dimen>
+    <dimen name="keyguard_pattern_unlock_clock_font_size">100.0sp</dimen>
     <dimen name="keyguard_pattern_unlock_status_line_font_size">14.0sp</dimen>
 </resources>
